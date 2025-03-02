@@ -1,25 +1,23 @@
 # Streamlit App
 
-A Streamlit application for [brief description of what your app does].
+A Streamlit application for analyzing audio files, counting Capuchin calls, and providing insights through an RAG-powered chatbot.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Upload an audio file and play it
+- Count Capuchin calls and perform general audio analysis
+- RAG-powered chatbot for discussing project details and results
 
 ## Installation
 
 1. Clone this repository:
-```bash
-git clone https://github.com/Russow10/main_project.git
-cd main_project
-```
+
+    git clone https://github.com/Russow10/main_project.git
+    cd main_project
 
 2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
+
+    pip install -r requirements.txt
 
 3. Set up your environment variables in the `.env` file.
 
@@ -27,9 +25,7 @@ pip install -r requirements.txt
 
 Run the application with:
 
-```bash
-streamlit run app.py
-```
+    streamlit run app.py
 
 ## Project Structure
 
@@ -41,8 +37,8 @@ streamlit run app.py
 
 ## License
 
-[Choose an appropriate license]
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. 
+Contributions are welcome! Feel free to submit a Pull Request.
